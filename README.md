@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![3D Grass Wave](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **vvddalfmr/vvddalfmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
