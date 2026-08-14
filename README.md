@@ -1,18 +1,37 @@
-## Welcome to Dongsam's Github 
+![Welcome! It's Donghyeonsam's Github!](./welcome-banner.jpg)
+
+---
+
+### ⌨️**Skills**
+
+<p align="center">
+  <img src="./icons/html5.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
+  <img src="./icons/css.svg" width="40" height="40" alt="CSS" title="CSS"/>
+  <img src="./icons/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="./icons/react.svg" width="40" height="40" alt="React" title="React"/>
+  <img src="./icons/vuedotjs.svg" width="40" height="40" alt="Vue.js" title="Vue.js"/>
+  <img src="./icons/python.svg" width="40" height="40" alt="Python" title="Python"/>
+  <img src="./icons/django.svg" width="40" height="40" alt="Django" title="Django"/>
+  <img src="./icons/docker.svg" width="40" height="40" alt="Docker" title="Docker"/>
+</p>
+
+---
+
+## 🏆**Careers**
+
+
+
+---
+
+## 📑**Certifications**
+
+**2026.03.27 SQL 개발자(SQLD) 취득**\
+**2026.06.05 데이터 분석 준전문가(ADsP) 취득**\
+**2026.09.11 정보처리기사 취득**
+
+---
+
+## 🌱**My Garden**
 
 ![3D Grass Wave](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--
-**vvddalfmr/vvddalfmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
