@@ -26,7 +26,7 @@
 
 ### 📒​**Projects**
 
-**Ait Project (Ai 모의 면접 & 모의 면접 스터디 플랫폼)**\
+**Ait Project (AI 모의 면접 & 모의 면접 스터디 플랫폼)**\
 **ERP Project (기업 사내 ERP 시스템)**
 
 ---
