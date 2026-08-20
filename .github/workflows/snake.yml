@@ -10,6 +10,12 @@ on:
   # 수동으로 즉시 실행할 수 있도록 설정 (테스트용)
   workflow_dispatch:
 
+# output 브랜치로 push하려면 기본 GITHUB_TOKEN에 쓰기 권한이 필요하다
+# (저장소 기본 워크플로우 권한이 read-only라 이게 없으면 push가
+# exit code 128로 실패한다).
+permissions:
+  contents: write
+
 # 실행할 작업 정의
 jobs:
   build:
