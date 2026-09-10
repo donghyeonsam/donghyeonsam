@@ -1,19 +1,6 @@
 ### 📒​**Projects**
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/donghyeonsam/Ait-project">
-        <img src="./logos/card-ait.svg" width="100%" alt="Ait — AI 모의면접 · RAG 기반 맞춤 질문 생성과 표정·음성 분석 모의면접 플랫폼 (FastAPI, RAG, Celery)"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/donghyeonsam/ERP-project">
-        <img src="./logos/card-erp.svg" width="100%" alt="ERP PJT — SSAFY International · Django DRF와 Vue 3로 구축한 사내 ERP 시스템"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center"><a href="https://github.com/donghyeonsam/Ait-project"><img src="./logos/card-ait.svg" width="49%" alt="Ait — AI 모의면접 · RAG로 사용자 맞춤 질문을 생성하고, 경량화한 MLP 모델로 표정·음성을 분석하는 모의면접 플랫폼 (FastAPI, RAG, Celery)"/></a><a href="https://github.com/donghyeonsam/ERP-project"><img src="./logos/card-erp.svg" width="49%" alt="ERP PJT — SSAFY International · Django DRF와 Vue 3로 구축한 기업 사내 전산 관리 ERP 시스템 (Django DRF, Vue 3)"/></a></p>
 
 ---
 
