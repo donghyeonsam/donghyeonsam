@@ -2,56 +2,15 @@
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%">
       <a href="https://github.com/donghyeonsam/Ait-project">
-        <img src="./logos/ait-logo-horizontal.png" height="110" alt="Ait — AI 모의면접"/>
+        <img src="./logos/card-ait.svg" width="100%" alt="Ait — AI 모의면접 · RAG 기반 맞춤 질문 생성과 표정·음성 분석 모의면접 플랫폼 (FastAPI, RAG, Celery)"/>
       </a>
-      <br/>
-      <a href="https://github.com/donghyeonsam/Ait-project"><b>Ait — AI 모의면접</b></a>
-      <br/><br/>
-      <details>
-        <summary>자세히 보기</summary>
-        <br/>
-        <p align="center">
-          RAG로 사용자 맞춤 질문을 생성하고,<br/>
-          경량화한 MLP 모델로 표정·음성을 분석하는 모의면접 플랫폼
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/FastAPI-1c1c1c?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-          <img src="https://img.shields.io/badge/RAG-1c1c1c?style=flat-square&logo=openaigym&logoColor=white" alt="RAG"/>
-          <img src="https://img.shields.io/badge/Celery-1c1c1c?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
-        </p>
-        <p align="center">
-          <a href="https://github.com/donghyeonsam/Ait-project">
-            <img src="https://img.shields.io/badge/Repository-1c1c1c?style=for-the-badge&logo=github&logoColor=white" alt="Ait Repository"/>
-          </a>
-        </p>
-      </details>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%">
       <a href="https://github.com/donghyeonsam/ERP-project">
-        <img src="./logos/erp-logo.jpg" height="110" alt="ERP PJT — 사내 ERP 시스템"/>
+        <img src="./logos/card-erp.svg" width="100%" alt="ERP PJT — SSAFY International · Django DRF와 Vue 3로 구축한 사내 ERP 시스템"/>
       </a>
-      <br/>
-      <a href="https://github.com/donghyeonsam/ERP-project"><b>ERP PJT — 사내 ERP 시스템</b></a>
-      <br/><br/>
-      <details>
-        <summary>자세히 보기</summary>
-        <br/>
-        <p align="center">
-          Django DRF와 Vue 3로 구축한<br/>
-          기업 사내 전산 관리 ERP 시스템
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Django%20DRF-1c1c1c?style=flat-square&logo=django&logoColor=white" alt="Django DRF"/>
-          <img src="https://img.shields.io/badge/Vue%203-1c1c1c?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3"/>
-        </p>
-        <p align="center">
-          <a href="https://github.com/donghyeonsam/ERP-project">
-            <img src="https://img.shields.io/badge/Repository-1c1c1c?style=for-the-badge&logo=github&logoColor=white" alt="ERP Repository"/>
-          </a>
-        </p>
-      </details>
     </td>
   </tr>
 </table>
