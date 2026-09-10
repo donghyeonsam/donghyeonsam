@@ -1,10 +1,25 @@
-### 📒​**Projects**
 
 <p align="center"><a href="https://github.com/donghyeonsam/Ait-project"><img src="./logos/card-ait.svg" width="49%" alt="Ait — AI 모의면접 · RAG로 사용자 맞춤 질문을 생성하고, 경량화한 MLP 모델로 표정·음성을 분석하는 모의면접 플랫폼 (FastAPI, RAG, Celery)"/></a><a href="https://github.com/donghyeonsam/ERP-project"><img src="./logos/card-erp.svg" width="49%" alt="ERP PJT — SSAFY International · Django DRF와 Vue 3로 구축한 기업 사내 전산 관리 ERP 시스템 (Django DRF, Vue 3)"/></a></p>
 
 ---
 
-### ⌨️**Skills**
+### 🏆 **Careers**
+
+**2026.01.18 ~ now 15th Samsung SW AI academy For Youth**\
+**2026.06.26 [기업 사내 전산 관리를 위한 ERP 시스템] / 🥈우수상 수상 / SSAFY**
+
+---
+
+### 📑  **Certifications**
+
+**2026.03.27 SQL 개발자(SQLD) 취득**\
+**2026.06.05 데이터 분석 준전문가(ADsP) 취득**\
+**2026.08.29 OPIc IH 등급 취득**\
+**2026.09.11 정보처리기사 취득**
+
+---
+
+### ⌨️ **Skills**
 
 <p align="center">
   <img src="./icons/html5.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
@@ -19,22 +34,6 @@
 
 ---
 
-### 🏆**Careers**
-
-**2026.01.18 ~ now 15th Samsung SW AI academy For Youth**\
-**2026.06.26 [기업 사내 전산 관리를 위한 ERP 시스템] / 🥈우수상 수상 / SSAFY**
-
----
-
-### 📑**Certifications**
-
-**2026.03.27 SQL 개발자(SQLD) 취득**\
-**2026.06.05 데이터 분석 준전문가(ADsP) 취득**\
-**2026.08.29 OPIc IH 등급 취득**\
-**2026.09.11 정보처리기사 취득**
-
----
-
-### 🌱**My Garden**
+### 🌱 **My Garden**
 
 ![3D Grass Wave](./profile-3d-contrib/profile-green-animate.svg)
