@@ -6,7 +6,8 @@
 ### 🏆 **Careers**
 
 **2026.01.18 ~ now 15th Samsung SW AI academy For Youth**\
-**2026.06.26 [기업 사내 전산 관리를 위한 ERP 시스템] / 🥈우수상 수상 / SSAFY**
+**2026.06.26 [기업 사내 전산 관리를 위한 ERP 시스템] / 🥈우수상 수상 / SSAFY**\
+**2026.09.28 [세계 뉴스 논조 분석 시각화 서비스 What In the World] / 🥈우수상 수상 / SSAFY**
 
 ---
 
