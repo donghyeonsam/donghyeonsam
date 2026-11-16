@@ -1,5 +1,6 @@
 
-<p align="center"><a href="https://github.com/donghyeonsam/Ait-project"><img src="./logos/card-ait.svg" width="49%" alt="Ait — AI 모의면접 · RAG로 사용자 맞춤 질문을 생성하고, 경량화한 MLP 모델로 표정·음성을 분석하는 모의면접 플랫폼 (FastAPI, RAG, Celery)"/></a><a href="https://github.com/donghyeonsam/ERP-project"><img src="./logos/card-erp.svg" width="49%" alt="ERP Project · Django DRF와 Vue 3로 구축한 기업 사내 전산 관리 ERP 시스템 (Django DRF, Vue 3)"/></a></p>
+<p align="center"><a href="https://github.com/donghyeonsam/NEXA-project"><img src="./logos/card-nexa.svg" width="49%" alt="NEXA — 엑셀에서 시작해 일상 업무까지 이어지는 AI 기반 사내 ERP (FastAPI, LangGraph, vLLM, MLflow, Kafka)"/></a><a href="https://github.com/donghyeonsam/Ait-project"><img src="./logos/card-ait.svg" width="49%" alt="Ait — 사용자의 이력서·자소서·GitHub를 읽고 맞춤형 질문을 제공하는 AI 모의면접 (FastAPI, RAG, ChromaDB, PyTorch, MediaPipe)"/></a></p>
+<p align="center"><a href="https://github.com/donghyeonsam/What-In-the-World-project"><img src="./logos/card-witw.svg" width="49%" alt="What In the World — 세계 뉴스의 논조를 읽어 지구본 위에 그리는 서비스, 프로젝트 경진대회 우수상 (Python, Kafka, Spark, HuggingFace)"/></a><a href="https://github.com/donghyeonsam/ERP-project"><img src="./logos/card-erp.svg" width="49%" alt="AI 워크플로우 추천 서비스를 갖춘 ERP 서비스 — AI가 오늘 할 일의 순서를 제안하는 통합 ERP, 프로젝트 경진대회 우수상 (Django, Vue, WebSocket, LLM)"/></a></p>
 
 ---
 
