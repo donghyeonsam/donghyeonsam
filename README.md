@@ -1,6 +1,10 @@
 
-<p align="center"><a href="https://github.com/donghyeonsam/NEXA-project"><img src="./logos/card-nexa.svg" width="49%" alt="NEXA — 엑셀에서 시작해 일상 업무까지 이어지는 AI 기반 사내 ERP (FastAPI, LangGraph, vLLM, MLflow, Kafka)"/></a><a href="https://github.com/donghyeonsam/Ait-project"><img src="./logos/card-ait.svg" width="49%" alt="Ait — 사용자의 이력서·자소서·GitHub를 읽고 맞춤형 질문을 제공하는 AI 모의면접 (FastAPI, RAG, ChromaDB, PyTorch, MediaPipe)"/></a></p>
-<p align="center"><a href="https://github.com/donghyeonsam/What-In-the-World-project"><img src="./logos/card-witw.svg" width="49%" alt="What In the World — 세계 뉴스의 논조를 읽어 지구본 위에 그리는 서비스, 프로젝트 경진대회 우수상 (Python, Kafka, Spark, HuggingFace)"/></a><a href="https://github.com/donghyeonsam/ERP-project"><img src="./logos/card-erp.svg" width="49%" alt="AI 워크플로우 추천 서비스를 갖춘 ERP 서비스 — AI가 오늘 할 일의 순서를 제안하는 통합 ERP, 프로젝트 경진대회 우수상 (Django, Vue, WebSocket, LLM)"/></a></p>
+<p align="center">
+  <a href="https://github.com/donghyeonsam/NEXA-project"><img src="./logos/project-nexa.jpg" width="100%" alt="NEXA — 엑셀에서 시작해 일상 업무까지 이어지는 AI 기반 사내 ERP"/></a>
+  <a href="https://github.com/donghyeonsam/Ait-project"><img src="./logos/project-ait.jpg" width="100%" alt="Ait — 사용자의 이력서·자소서·GitHub를 읽고 맞춤형 질문을 제공하는 AI 모의면접"/></a>
+  <a href="https://github.com/donghyeonsam/What-In-the-World-project"><img src="./logos/project-witw.jpg" width="100%" alt="What In the World — 세계 뉴스의 논조를 읽어 지구본 위에 그리는 서비스 (프로젝트 경진대회 우수상)"/></a>
+  <a href="https://github.com/donghyeonsam/ERP-project"><img src="./logos/project-erp.jpg" width="100%" alt="AI 워크플로우 추천 서비스를 갖춘 ERP 서비스 — AI가 오늘 할 일의 순서를 제안하는 통합 ERP (프로젝트 경진대회 우수상)"/></a>
+</p>
 
 ---
 
